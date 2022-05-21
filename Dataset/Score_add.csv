@@ -1,0 +1,501 @@
+,Name,Score,Location,Category,Rating,Price,Review_count,business_id
+0,holbox,95.0,"3655 S Grand Ave,Ste C9,Los Angeles, CA 90007",latin,5.0,2.0,536,-5TFq3V--bffJGW000YuGQ
+1,salt n' peppa,94.0,"632 S Hill St,Los Angeles, CA 90014",burgers,4.5,2.0,159,nUfs4U4kwfqtj13f3dop8w
+2,water grill - los angeles,84.0,"544 S Grand Ave,Los Angeles, CA 90071",seafood,4.0,3.0,2354,pDqUvoNY1kR963MJnfnL6Q
+3,yard house,97.0,"800 W Olympic Blvd A-115,Ste A-115,Los Angeles, CA 90015",bars,3.5,2.0,2848,5V7zNZ9IdSUCYrZRXAg2hA
+4,proabition dtla,91.0,"117 Winston St,Los Angeles, CA 90013",newamerican,4.5,,17,pPxPgAN9Z34kjeDFNOClXg
+5,maruya,92.0,"104 Japanese Village Plaza Mall,Los Angeles, CA 90012",sushi,3.5,2.0,805,nzC9XW_7rUDnBVOiaNxgPg
+6,jacks n joe,94.0,"2498 S Figueroa St,Los Angeles, CA 90007",breakfast_brunch,4.0,2.0,2200,BonZ748EKm8pwtVQalFpYQ
+7,cicada restaurant and lounge,93.0,"617 S Olive St,Ste 100,Los Angeles, CA 90014",italian,4.0,4.0,522,kq6z27OhpoRoLLv4Fhkg8A
+8,suehiro mini,94.0,"642 N Broadway,Ste 5,Chinatown Center Mall,Los Angeles, CA 90012",ramen,4.5,2.0,96,cKbwVOuYVnNy91TO5ZYJOQ
+9,korea bbq house,93.0,"123 S Onizuka St,Ste 302,Los Angeles, CA 90012",korean,4.0,2.0,271,4xvuYoCRCdDBCvcGALUO3g
+10,horse thief bbq,81.0,"324 S Hill St,Los Angeles, CA 90013",bbq,3.5,2.0,888,LI_vT6RQYnlKnh8ZLiK-rg
+11,carnes asadas pancho lopez,92.0,"3328 Pasadena Ave,Los Angeles, CA 90031",mexican,5.0,2.0,259,TOtRBm4rnHtHo2S7-6LW5w
+12,yxta cocina mexicana,94.0,"601 S Central Ave,Los Angeles, CA 90021",mexican,4.0,2.0,1176,b1CxnE2kErynRw9PQ8G_9Q
+13,little llama peruvian tacos,96.0,"222 S Main St,Los Angeles, CA 90012",tacos,4.5,2.0,138,YXgxH0-raeo0t9BLbujUdA
+14,guisados,97.0,"1261 W Sunset Blvd,Los Angeles, CA 90026",mexican,4.5,2.0,2261,BDRVlHnK4l0T0ANb7M-Eqg
+15,bottega louie,90.0,"700 S Grand Ave,Los Angeles, CA 90017",italian,4.0,2.0,17177,TkFEKhsCixPWlShULKvMdQ
+16,maccheroni republic,90.0,"332 S Broadway,Los Angeles, CA 90013",italian,4.5,2.0,3407,gd6PYDx-leOM97a3MWoO1g
+17,jin china bistro,93.0,"123 Astronaut Ellison S Onizuka St,Ste 202,Los Angeles, CA 90012",chinese,4.0,2.0,138,7exoIECl15_Dxqev9HCOBQ
+18,pho ever - little tokyo,96.0,"319 E 2nd St,Ste 205,Los Angeles, CA 90012",vietnamese,4.0,2.0,101,OnQ_H_tFQD9VX_jExzvN8Q
+19,homeboy diner,92.0,"Los Angeles City Hall,201 N Main St , Fl 2,Los Angeles, CA 90012",cafes,4.0,1.0,54,00IcQz3qT1aGz7-bR-czuA
+20,quarter sheets pizza club,96.0,"1305 Portia St,Los Angeles, CA 90026",pizza,4.5,,19,vNRmpcJzqBMK_piXswZZzg
+21,sonoritas prime tacos,96.0,"1050 S Flower St,Los Angeles, CA 90015",mexican,4.0,2.0,144,Ke3WFbRKFHOW7Ity6vO0jQ
+22,arashi sushi,95.0,"1111 S Hope St,Ste 100,Los Angeles, CA 90015",sushi,4.0,2.0,814,3DGoEPRKF9d3MnpybEcH6Q
+23,prank,90.0,"1100 S Hope St,Los Angeles, CA 90015",cocktailbars,4.0,2.0,916,93Svns_JtCP3__wxlcSsbg
+24,mima's mediterranean & homemade food,80.0,"628 Saint Vincent Ct,Los Angeles, CA 90014",mediterranean,5.0,1.0,48,AEPPyGiMb02mVEPLk2n8nQ
+25,eastside italian deli - downtown l a,98.0,"1013 Alpine St,Los Angeles, CA 90012",italian,4.5,2.0,1120,RFHPuxxJCbndsLD3ukf4RA
+26,drago centro,94.0,"525 S Flower St,Ste 120,Los Angeles, CA 90071",italian,4.0,3.0,1603,p78nnAZrr2JxVNqggm0JSQ
+27,korean kitchen hibachi barbeque,94.0,"135 Japanese Village Pl Mall,Los Angeles, CA 90012",korean,4.0,2.0,376,3yJxYgt_PD9JqCcKafkpLw
+28,public school 213,94.0,"612 Flower St,Los Angeles, CA 90017",bars,3.5,2.0,952,-73lYnIMpqXG5gVTQOpH8g
+29,the semi-tropic,93.0,"1412 Glendale Blvd,Los Angeles, CA 90026",cocktailbars,4.5,2.0,444,h3KzTYozazMtdhS8C1qBXg
+30,lokels only,93.0,"635 N Broadway,Los Angeles, CA 90012",popuprestaurants,4.5,2.0,47,QT6yqvw3leBEzsruTQnrZQ
+31,yangban society,94.0,"712 S Santa Fe Ave,Los Angeles, CA 90021",korean,4.0,2.0,69,H-59njjlarE5GFpR5NdyGg
+32,los angeles biergarten,90.0,"750 S Broadway,Los Angeles, CA 90014",tradamerican,3.5,2.0,159,VXwJkEJoaF_JYX3kOHtO5Q
+33,the pie hole,95.0,"714 Traction Ave,Los Angeles, CA 90013",desserts,4.0,1.0,3266,kqgPgdIPoW1Gik8bxAGuRg
+34,bacari w. adams,91.0,"2308 S Union Ave,Los Angeles, CA 90007",italian,4.0,2.0,1618,8polKN4I6fJx1t8pPxogVw
+35,hifi kitchen,93.0,"1667 Beverly Blvd,Los Angeles, CA 90026",filipino,4.5,1.0,80,gY3McKZ54b8w_3yVU2qQPg
+36,cole's french dip,90.0,"118 E 6th St,Los Angeles, CA 90014",bars,3.5,2.0,2252,bboQgpFxDeQH5L5hHRDk1A
+37,uncle john’s cafe,92.0,"834 S Grand Ave,Los Angeles, CA 90017",tradamerican,4.0,2.0,830,6iJ_E5tMJII601mrzwwdrQ
+38,little tokyo sushi,93.0,"333 S Alameda St,Ste 100-C,Los Angeles, CA 90013",japanese,4.0,1.0,53,-7qgRL3jMiE3JQU-9aE0wg
+39,oh my poki,94.0,"333 S Alameda St,Ste 100,Los Angeles, CA 90013",asianfusion,4.5,2.0,194,Eyw8qIh5LjbBXAYqdekk1A
+40,my dung sandwich shop,95.0,"314 Ord St,Los Angeles, CA 90012",sandwiches,4.5,1.0,189,jrRMueuUYTHx94B80qio9g
+41,philippe the original,97.0,"1001 N Alameda St,Los Angeles, CA 90012",sandwiches,4.0,1.0,6576,AxPJlSxkCJVJk3sSTL_8OA
+42,rossoblu,91.0,"1124 San Julian St,Los Angeles, CA 90015",italian,4.0,3.0,707,YYKK5pDAWQimcHzOz-7nug
+43,izakaya gazen,92.0,"362 E 1st St,Los Angeles, CA 90012",sushi,4.0,2.0,390,ywH0noW7QvSK5pE7W4QgJg
+44,chinchikurin - little tokyo,95.0,"350 E 1st St,Los Angeles, CA 90012",japanese,4.0,2.0,750,WnEQZDZ86ozJjnAkw8tYRQ
+45,464,96.0,"464 S Main St,Los Angeles, CA 90013",burgers,4.5,2.0,411,5hEf8nOB2O9w-Uvo52CzhQ
+46,loqui,96.0,"803 Traction Ave,Ste 150,Los Angeles, CA 90013",tacos,4.5,2.0,123,eS1vk1koUiJPPiab-x2jaQ
+47,afuri,93.0,"688 Mateo St,Los Angeles, CA 90021",ramen,4.0,2.0,269,CWM5nseG5en-lCW5ac-Vfw
+48,pasta e pasta by allegro,90.0,"432 E 2nd St,Los Angeles, CA 90012",italian,4.5,2.0,998,lRScnMRd-FBlT5QQyrUEUQ
+49,kouraku japanese ramen,97.0,"314 E 2nd St,Los Angeles, CA 90012",ramen,4.0,2.0,1060,YoyF3zjhYs5loTX9xtYgtA
+50,ootoro little tokyo,97.0,"232 E 2nd St,Ste E,Los Angeles, CA 90012",japanese,4.5,,118,451LU9SaBEoxtLJ8NZdXIA
+51,hakata ikkousha ramen,96.0,"368 E 2nd St,Los Angeles, CA 90012",ramen,4.0,2.0,683,wj6x4qDuTwjZGH7jdPLr5A
+52,library bar,97.0,"630 W 6th St,Ste 116-A,Los Angeles, CA 90017",newamerican,4.0,2.0,1794,wtp1izuuno7wsPBhPRcGqw
+53,oomasa restaurant,95.0,"100 Japanese Village Plaza Mall,Los Angeles, CA 90012",japanese,4.0,2.0,1371,rKz7-H9utg_qnk8Hq9XeCA
+54,shibumi,97.0,"815 South Hill St,Los Angeles, CA 90014",japanese,3.5,4.0,372,rSxvppSRQYjNXpP6qknJ7g
+55,genwa korean bbq,92.0,"450 W Olympic Blvd,Ste B & C,Los Angeles, CA 90015",korean,4.0,,111,7Kk9_RkS3lefOAih71Hzlw
+56,shake shack,90.0,"400 W 8th St,Los Angeles, CA 90014",burgers,3.5,2.0,449,bqp_25iz8wcjcG2MrD3ZTQ
+57,suehiro cafe,91.0,"337 E 1st St,Los Angeles, CA 90012",japanese,4.0,2.0,1520,-uxK5hNz5fpeNOgIZo8AKA
+58,hayato,93.0,"1320 E 7th St,Ste 126,Los Angeles, CA 90021",japanese,5.0,4.0,107,Kdfu2ZNUp7jKta9j2cZ2NA
+59,bar ama,93.0,"118 W 4th St,Los Angeles, CA 90013",tex-mex,4.0,2.0,1258,SGr-W_g4ecqkkEweCc1RVg
+60,girl & the goat,99.0,"555 Mateo St,Ste 300,Los Angeles, CA 90013",newamerican,4.5,,691,pLP4joJ99UpIQpNh6kxZFw
+61,71 above,92.0,"633 W 5th St,Fl 71,Los Angeles, CA 90071",tradamerican,4.0,4.0,2150,nGlLaC0p0naSlgdy2-HCVw
+62,here & now,95.0,"300 S Santa Fe Ave,Ste N,Los Angeles, CA 90013",bars,4.0,2.0,174,cn0oI6wtGmDXzJy9x8kZYw
+63,the factory kitchen,98.0,"1300 Factory Pl,Ste 101,Los Angeles, CA 90013",italian,4.0,3.0,1437,cK9wMWnQEW9MdYjc-YWueg
+64,death & co - los angeles,90.0,"818 E 3rd St,Los Angeles, CA 90013",cocktailbars,4.0,3.0,163,XU5YmT2y1-V3e5lW_15b0A
+65,ototo,94.0,"1360 Allison Ave,Los Angeles, CA 90026",bars,4.0,2.0,87,gAMhVggfelvAxE40Bg-ywQ
+66,bavel,93.0,"500 Mateo St,Los Angeles, CA 90013",mideastern,4.5,3.0,1752,wo3wnj3pMSOPkzqpvbey-g
+67,bestia,93.0,"2121 E 7th Pl,Los Angeles, CA 90021",italian,4.5,3.0,6727,fEY0zHaDMfIW3-N__joDKQ
+68,hachioji craft ramen,93.0,"313 E 1st St,Los Angeles, CA 90012",ramen,4.5,2.0,214,-MG34oqzdbjl4O03AgMppw
+69,azay,95.0,"226 E 1st St,Los Angeles, CA 90012",japanese,4.5,2.0,161,jcUgGKhk1NbzNBED6e_tPg
+70,restaurante salvadoreño cabañas,93.0,"1003 S Hill St,Los Angeles, CA 90015",tapasmallplates,4.0,1.0,36,Si0Lyewd1nkUBhLTpRbhgw
+71,damian,94.0,"2132 E 7th Pl,Los Angeles, CA 90021",mexican,4.0,,164,n8cs5yUAG6XVn52eMChCNw
+72,caboco,98.0,"1850 Industrial St,Los Angeles, CA 90021",brazilian,4.5,,77,StdfmfbeUmgdZd0r-m_aUQ
+73,shin-sen-gumi hakata ramen - little tokyo,92.0,"132 S Central Ave,Los Angeles, CA 90012",ramen,4.0,2.0,2934,jqS3dVaCYeBehb3tOiWWbQ
+74,air food l’appart,93.0,"130 E 6th St,Los Angeles, CA 90014",french,5.0,,87,VB9-IUhiToEhirKHh7M7AA
+75,pitchoun!,96.0,"545 S Olive St,Los Angeles, CA 90013",cafes,4.0,2.0,1043,T785BygAMwpVuiGfukiLXA
+76,la cha cha chá,96.0,"812 E 3rd St,Los Angeles, CA 90013",mexican,4.0,3.0,340,UUL3cdDeCA0gZIa8lBO1zg
+77,thai by trio,94.0,"2700 S Figueroa St,Ste 101,Los Angeles, CA 90007",thai,4.0,2.0,233,4lf6VPVwHR92favXJfpvlQ
+78,cafe gratitude,94.0,"300 S Santa Fe Ave,Ste A,Los Angeles, CA 90013",vegan,4.0,2.0,1083,e8Y0i00oKILndcBwm8L7PA
+79,melody,93.0,"751 N Virgil Ave,Los Angeles, CA 90029",newamerican,4.0,2.0,254,jJhbNZqBLbLK4IRVuoIgyg
+80,kokio chicken - downtown la,91.0,"517 E Olympic Blvd,Los Angeles, CA 90015",chicken_wings,4.5,2.0,35,dB_63hX73oPMiFiI15lSRg
+81,shekarchi bar & grill,91.0,"920 S Olive St,Los Angeles, CA 90015",persian,4.5,2.0,653,ltt8RYM6nxMfDTDM6RmrBA
+82,paul's kitchen,92.0,"1012 S San Pedro St,Los Angeles, CA 90015",chinese,4.0,2.0,359,K_3Cggqb5xDL_kc8kJsr2w
+83,soriana restaurant,93.0,"512 E Washington Blvd,Los Angeles, CA 90015",halal,4.5,2.0,72,UeoX7hrG8jXye4dKPzzMeA
+84,oriel chinatown,99.0,"1135 N Alameda St,Los Angeles, CA 90012",french,4.5,2.0,157,9EaRONZCZxomy3TTkLM8DA
+85,redbird,96.0,"114 E 2nd St,Los Angeles, CA 90012",cocktailbars,4.0,3.0,1648,5SVj7kpiXxCEnkzL_8wA1g
+86,perch,96.0,"448 S Hill St,Los Angeles, CA 90013",lounges,4.0,3.0,8978,K-Fbh2WCHlqR56H9TnfpNA
+87,shabu shabu house,94.0,"127 Japanese Village Plaza Mall,Los Angeles, CA 90012",japanese,4.0,2.0,1423,v9RZZLxE39Zx9L0mXB8kww
+88,dune downtown,90.0,"199 W Olympic Blvd,Los Angeles, CA 90015",falafel,4.5,2.0,219,-Di-XNK5lOJukf2XmJBnfQ
+89,the oyster gourmet,96.0,"317 S Broadway,Los Angeles, CA 90013",seafood,4.0,2.0,277,jEc9UnIE0LnMOpadEWxcLg
+90,badmaash - downtown la,92.0,"108 W 2nd St,Ste 104,Los Angeles, CA 90012",indpak,4.0,2.0,1891,EB-RtApkwptE3wRCQO8bCw
+91,kushi shabu,96.0,"123 Astronaut E S Onizuka St,Ste 305,Los Angeles, CA 90012",japanese,3.5,2.0,523,NZEgtHnqQ7-SO8r3XjkUQQ
+92,torigoya,96.0,"123 Astronaut E S Onizuka St,Ste 203,Los Angeles, CA 90012",japanese,4.0,2.0,178,DFxdMe57YmQ54HK3cu3vpQ
+93,sushi komasa,95.0,"351 E 2nd St,Los Angeles, CA 90012",sushi,4.5,2.0,1396,tdUUdnBGAohajNy97l4BZQ
+94,shiku,95.0,"317 S Broadway,Los Angeles, CA 90013",korean,4.5,2.0,57,MoY431n8_eGdHWfCVAcesQ
+95,la michoacana restaurant,94.0,"1625 East Cesar Chavez E,Los Angeles, CA 90033",mexican,4.5,2.0,31,DCQfd9locPtT4bCOVU2m-Q
+96,commodore cafe,91.0,"1203 W 7th St,Los Angeles, CA 90017",cafes,5.0,,1,wJ1lKVU7ORBK9x0YVbOjZg
+97,tray dtla,94.0,"100 S Main St,Los Angeles, CA 90012",cafeteria,4.5,,37,l3zhNdd0c5nSVCYWga-QPQ
+98,danny boy's famous original pizzeria,98.0,"330 S Hope St,Los Angeles, CA 90071",pizza,4.5,,72,0RqanI3u9-p3s3gEgVQP1g
+99,purgatory pizza,95.0,"1326 E 1st St,Los Angeles, CA 90033",pizza,4.0,2.0,999,zDQm3hXszZOov-w6IAI31A
+100,chop chop chicken,94.0,"2526 S Figueroa St,Los Angeles, CA 90007",asianfusion,4.5,,53,CLcJ1BVd7zsh9wnnYOjF7w
+101,qin west noodle,95.0,"2520 S Figueroa St,Los Angeles, CA 90007",chinese,4.0,1.0,85,j7zBQ2dfP5QDVH8n33X9cg
+102,dirt dog,94.0,"2528 S Figueroa St,Los Angeles, CA 90007",hotdog,4.5,2.0,2505,0z23Jk7U_MpvtqKINPL2fA
+103,vespaio,91.0,"225 S Grand Ave,Los Angeles, CA 90012",italian,3.5,2.0,728,PnQdOlJG3ErVz4W-HH-0Dg
+104,abernethy's,98.0,"220 N Hope St,Los Angeles, CA 90012",newamerican,3.5,3.0,64,n--nWwEfxuhWUFeQn9DmSA
+105,kendall's brasserie,97.0,"135 N Grand Ave,Los Angeles, CA 90012",french,3.0,3.0,45,wxHjh5QX-YzYTwc_dVz3lQ
+106,jist cafe,96.0,"116 Judge John Aiso St,Los Angeles, CA 90012",newamerican,4.0,2.0,1186,KkuuyGya97GD9sBqpD1YCg
+107,shojin downtown,96.0,"333 S Alameda St,Ste 310,Los Angeles, CA 90013",japanese,4.0,3.0,1895,KOuqS-inE44o9-1Jix9Tag
+108,the mermaid,95.0,"428 E 2nd St,Los Angeles, CA 90012",cocktailbars,4.0,2.0,174,6VlvPYFbm4NSrzF23i90_w
+109,izakaya bizan,90.0,"333 S Alameda St,Ste 314,Los Angeles, CA 90013",izakaya,3.5,2.0,1483,eQpVHQpWGaDhmy5WPsZZPw
+110,my ramen bar,95.0,"321 1/4 E 1st St,Los Angeles, CA 90012",ramen,4.0,2.0,815,z1XXH6A872rVz-cg-HH3pg
+111,rakkan ramen-dtla,96.0,"359 E 1st St,Los Angeles, CA 90012",ramen,4.0,2.0,806,9eiUNdikDCihYs-ufjiJIw
+112,roll spot,99.0,"134 Astronaut E S Onizuka St,Unit 101C,Los Angeles, CA 90012",japanese,4.5,,99,rUSrjIYnt7vtr_X6dvVZXQ
+113,sisig,96.0,"1714 W Temple St,Los Angeles, CA 90026",filipino,4.5,2.0,55,OV0dGThU7E0ZevFSuSbqZQ
+114,sarita's pupuseria,97.0,"317 S Broadway,Ste E-5,Los Angeles, CA 90013",salvadoran,3.5,1.0,821,FJ_bL5RP28Gyol1YavMA3w
+115,thai deli,93.0,"1835 E Cesar E Chavez Ave,Los Angeles, CA 90033",japanese,4.0,1.0,463,DeCGZyFsbhCSEFAmgAqYZQ
+116,abc chinese fast food,97.0,"100 W 7th St,Los Angeles, CA 90014",chinese,4.0,1.0,57,yvC0Fa-byDqXErrs4YXVwQ
+117,yang chow,93.0,"819 N Broadway,Los Angeles, CA 90012",chinese,4.0,2.0,2860,ZlQo_ArRw-nnHcrcnYPbiA
+118,sqirl,96.0,"720 N Virgil Ave,Ste 4,Los Angeles, CA 90029",newamerican,4.0,2.0,2167,q97MIGXESdhak-LhGKDl0Q
+119,rhythm room la,97.0,"206 W 6th St,Los Angeles, CA 90014",musicvenues,4.5,2.0,308,c1ozv7ODg7wBTEgWast0eA
+120,la pupusa urban eatery,93.0,"1051 W Washington Blvd,Ste G,Los Angeles, CA 90015",salvadoran,4.5,2.0,345,cywwDn2SYCoef0PUYOXygw
+121,nickel diner,95.0,"524 S Main St,Los Angeles, CA 90013",diners,4.0,2.0,2466,cgEuMSD2vB36OH-FFAqWIA
+122,fortune gourmet kitchen,94.0,"727 N Broadway,Ste 215,Los Angeles, CA 90012",cantonese,4.0,1.0,256,zgrn4ASqGcltVUAnO60mRg
+123,mignon,94.0,"128 E 6th St,Los Angeles, CA 90014",wine_bars,4.0,2.0,460,LhIV95NXNmhjLH5f4YBmBQ
+124,kai's table,91.0,"1091 S Hope Street,Los Angeles, CA 90015",comfortfood,3.5,,113,c5lBujpxYy8vPqF4bYkGcg
+125,el paseo inn,97.0,"11 E Olvera St,Los Angeles, CA 90012",mexican,4.0,2.0,1381,4Ttfvrc3S3xW1sxHF-oFPg
+126,la noche buena restaurant,99.0,"12 Olvera St,Los Angeles, CA 90012",mexican,4.5,1.0,358,xY3GGdmvSFUIm-B_RFIjwQ
+127,cielito lindo,92.0,"E-23 Olvera St,Ste E,Los Angeles, CA 90012",mexican,4.0,1.0,948,RY_72fCN2JsR9pbTBJD-LQ
+128,nick + stef's steakhouse,97.0,"330 S Hope St,Los Angeles, CA 90071",steak,4.0,3.0,771,kaBIHYqe06aC5lXHMOVc7A
+129,tsubaki,97.0,"1356 Allison Ave,Los Angeles, CA 90026",izakaya,4.0,3.0,301,Aq1vM8LCcb8mdpCOKCdlsw
+130,redwood bar & grill,94.0,"316 W 2nd St,Los Angeles, CA 90012",tradamerican,3.5,2.0,666,blQ_tkX_WFeyj34lVvwEEQ
+131,wokcano,97.0,"800 W 7th St,Los Angeles, CA 90017",chinese,3.5,2.0,1545,san8eG8xZumc9tShj65MPw
+132,oh my crab,94.0,"3000 W 6th St,Los Angeles, CA 90020",seafood,4.0,2.0,274,borw1LsTQAwaCIoNoa35bw
+133,la café,95.0,"639 S Spring St,Los Angeles, CA 90014",breakfast_brunch,3.5,2.0,2083,-gvbpI_PayXy9agbPiGbpA
+134,pizza sociale,91.0,"448 West Olympic Blvd,Los Angeles, CA 90015",pizza,4.5,2.0,224,Y7-nQUmDAJd0MrcHDpzX9g
+135,won kok restaurant,87.0,"210 Alpine St,Los Angeles, CA 90012",chinese,3.5,1.0,1396,xPpCIt9Qes6vdXRum03g_A
+136,tony's burgers,92.0,"2115 S Central Ave,Los Angeles, CA 90011",tradamerican,4.5,1.0,22,VlhiIo35fRV7lVrUi4Tuew
+137,men oh tokushima ramen,93.0,"456 E 2nd St,Los Angeles, CA 90012",ramen,4.0,2.0,1316,AIQpwyjNV3VdsGMjf1WNcg
+138,guisados dtla,97.0,"541 S Spring St,Ste 101,Los Angeles, CA 90013",mexican,4.5,1.0,1951,VqG_rccDoUXreiaHH0DEUA
+139,aloha café,96.0,"410 E 2nd St,Honda Plaza,Los Angeles, CA 90012",breakfast_brunch,4.0,2.0,735,kLMwIMioGwempP4oCuQp0A
+140,bbq chicken little tokyo,94.0,"442 E 2nd St,Los Angeles, CA 90012",korean,4.0,2.0,311,A0Ywsdx5X6g8icczpAayhQ
+141,new kamara,95.0,"709 N Hill St,Ste 14,Los Angeles, CA 90012",chinese,4.5,1.0,63,5zYBoDGqO__fe5TYs6JapA
+142,tocaya - dtla,91.0,"801 S Olive St,#B,Los Angeles, CA 90014",mexican,3.5,2.0,313,28HzNE8LVC3KZ1jKvAc8hg
+143,crispy school,97.0,"526 S Occidental Blvd,Los Angeles, CA 90057",burgers,5.0,2.0,444,SqWYLEwZxJY7Et8w24lzjw
+144,gus's drive in,97.0,"1657 W 3rd St,Los Angeles, CA 90017",tradamerican,3.5,2.0,476,J5VIIA_KdB33zQR8vgo5MA
+145,california hot chicken,96.0,"3335 S Figueroa St,Los Angeles, CA 90007",chickenshop,4.0,2.0,84,BEzukW4aJ5mHu9AULtIGdA
+146,the boil daddy - dtla,95.0,"1225 E Washington Blvd,Unit C,Los Angeles, CA 90021",cajun,4.0,,17,yWVGmtbVXGuRLOZ1zR64Yw
+147,guerrilla tacos,90.0,"2000 E 7th St,Los Angeles, CA 90021",tacos,4.0,2.0,944,SNlf3YpKkDG-e4R9jkwLhA
+148,brera ristorante,90.0,"1331 E 6th St,Los Angeles, CA 90021",italian,4.0,3.0,712,aUSK0oQR4ey0rFoDfCXaPw
+149,pizza next door,94.0,"806 W 8th St,Unit B,Los Angeles, CA 90017",pizza,4.0,1.0,469,r3P7aRD9HwskzoqnwxRhxg
+150,shabuya,93.0,"1925 W Olympic Blvd,Los Angeles, CA 90006",seafood,4.0,2.0,689,tGusz6xqBBABc1awGP1aLA
+151,kobawoo house,91.0,"698 S Vermont Ave,Ste 109,Los Angeles, CA 90005",korean,4.5,2.0,1316,TWHGJkTAbF22hvXeReQp9w
+152,villa moreliana,96.0,"317 S Broadway,Grand Central Market,Los Angeles, CA 90013",mexican,4.5,1.0,459,eTDN9KE5LAjQdai_8J6pZg
+153,tacos tumbras a tomas,96.0,"317 S Broadway,Spc A-5,Grand Central Market,Los Angeles, CA 90013",mexican,4.0,1.0,1067,520Wd4FU_DixBprFQQnnxg
+154,yuko curry bar,94.0,"125 W 5th St,Los Angeles, CA 90013",desserts,4.5,2.0,124,9XtBQXnnUL8npHtksdXNGw
+155,la tostaderia,93.0,"317 S Broadway,Los Angeles, CA 90013",seafood,4.0,2.0,425,SsOlRN_7cKsHlek_RyohvQ
+156,guisados,95.0,"2100 East Cesar E Chavez Ave,Los Angeles, CA 90033",mexican,4.5,1.0,2552,qpcH_Fub586U2kw_pQJS3w
+157,lindo oaxaca,90.0,"322 E Washington Blvd,Los Angeles, CA 90015",mexican,4.5,2.0,81,37gMBHZA9OVE_tckoSRC4Q
+158,hrb dtla,94.0,"529 W 6th St,Los Angeles, CA 90014",sushi,4.0,2.0,182,-2kcgcEpQL4YhBloldAQlg
+159,tender greens,93.0,"505 W 6th St,PacMutual Building,Los Angeles, CA 90014",salad,3.5,2.0,442,1V-opbw-NvOlbWwVLBNwYg
+160,crepes de paris,90.0,"123 S Figueroa St,Ste 122,Los Angeles, CA 90012",creperies,4.5,2.0,197,OSzx70nkKXjpsvB2B6wSvQ
+161,hong kong jham phong,90.0,"735 E 12th St,Ste 405,Los Angeles, CA 90021",korean,3.0,1.0,22,uJsP8sLmdkA9-y7edDKBjQ
+162,hama sushi,97.0,"347 E 2nd St,Los Angeles, CA 90012",sushi,4.0,2.0,1633,JMJWvgBKUO6_wOPtnTCPgQ
+163,daebokjung,93.0,"2010 James M Wood Blvd,Los Angeles, CA 90006",korean,4.5,2.0,48,4fa2rkET8eT6sf9kUZx0jQ
+164,la brisket,96.0,"736 N Broadway,Los Angeles, CA 90012",bbq,4.5,2.0,165,6RDro8iSto0thExOPC3SIw
+165,katsu sando,95.0,"736 N Broadway,Ste 105,Los Angeles, CA 90012",sandwiches,4.5,2.0,246,oZG16DktFsm-Sl-KDSny_g
+166,anwar's kitchen,99.0,"217 E 8th St,Los Angeles, CA 90014",mediterranean,4.5,,153,98nL1641VKFPGBjCjVlaNA
+167,gyoza boyz dtla,96.0,"724 S Spring St,Corporation Food Hall,Los Angeles, CA 90014",japanese,3.5,,30,Vz-vcwRDwQLxlIgAUACu5A
+168,dtla bodega,97.0,"650 S Spring St,Unit R2,Los Angeles, CA 90014",delis,4.5,,63,scAFYZFTI0Lu98N0Rs9nQw
+169,aca grill,92.0,"1300 S San Pedro St,Ste 220,Los Angeles, CA 90015",bbq,4.5,2.0,42,Yji5SVINMP7c2KOmGeouwg
+170,mohawk bend,96.0,"2141 W Sunset Blvd,Los Angeles, CA 90026",gastropubs,4.0,2.0,2456,NffHWFzlhlsPvl06guR2gQ
+171,yang ban sul lung tang,91.0,"1515 Maple Ave,Los Angeles, CA 90015",korean,4.5,1.0,196,svK6WXwRnTSORVkB33o3KA
+172,casa la doña,99.0,"800 S Main St,Los Angeles, CA 90014",mexican,4.5,1.0,699,5o_XEyhLrgpB6Cmeqp9NGg
+173,holy basil,98.0,"718 S Los Angeles St,Unit A,Los Angeles, CA 90014",thai,4.5,2.0,179,gX802b6PyS51OjFrXacWfA
+174,poppy + rose,95.0,"765 Wall St,Los Angeles, CA 90014",breakfast_brunch,4.0,2.0,2796,NlT-6hFP0_6hPo36AW2lIA
+175,city club restaurant,94.0,"1029 S Santa Fe Ave,Los Angeles, CA 90021",divebars,4.0,1.0,19,4Ci1Go2yuau36vRnwBqEkw
+176,eat drink americano,97.0,"923 E 3rd St,Los Angeles, CA 90013",newamerican,4.0,2.0,809,ECDeXJtkl5umk8_CZp7hkw
+177,little jewel of new orleans,94.0,"207 Ord St,Los Angeles, CA 90012",delis,4.0,2.0,1860,e8yeADAtTGRyzkOLG5iKSg
+178,manuela,98.0,"907 E 3rd St,Los Angeles, CA 90013",newamerican,4.0,2.0,1338,qA9Dqezi-kqbIBtM3c07Ew
+179,mendocino farms,97.0,"444 S Flower St,Los Angeles, CA 90071",sandwiches,4.5,2.0,779,6wgMAoxi3CMiX0yrUO_g_Q
+180,mendocino farms,97.0,"300 S Grand Ave,Los Angeles, CA 90071",sandwiches,4.0,2.0,587,p--FkpK0aMeXKoMHVp1dQw
+181,birdies,93.0,"314 W Olympic Blvd,Los Angeles, CA 90015",donuts,4.0,2.0,2070,eXZyAF5Xk1u-d9vnkeNPXg
+182,langer's delicatessen,96.0,"704 S Alvarado St,Los Angeles, CA 90057",delis,4.5,2.0,4050,qCJ2LFfNbXYBIcjXNva1cA
+183,breadlam,98.0,"826 E 3rd St,Los Angeles, CA 90013",sandwiches,4.5,2.0,147,q_zo_eEeWru0MQqehWHiVQ
+184,dalia cocina mexicana,92.0,"108 W 2nd St,Unit 102,Los Angeles, CA 90012",mexican,4.5,2.0,192,MSVqTBMGU1vqM9j-SzPq6A
+185,bak's kitchen,94.0,"702 W 1st St,Los Angeles, CA 90012",japanese,3.5,1.0,83,it3MggLJtEwsOaeFMN0_kg
+186,sticky rice,93.0,"317 S Broadway,Ste C-4-5,Grand Central Market,Los Angeles, CA 90013",thai,4.0,2.0,1028,B7hN8d0qkE9mPw9LVcomuQ
+187,crab house,95.0,"923 S Vermont Ave,Los Angeles, CA 90006",korean,4.0,2.0,398,sHMQqLZqaMCZa5ICqpGiNg
+188,hana ichimonme,92.0,"333 S Alameda St,Fl 3,Los Angeles, CA 90013",ramen,4.0,2.0,479,4pfHXdV1cilbpT5uUlbTGw
+189,it's thai casual dining,93.0,"1070 Wilshire Blvd,Los Angeles, CA 90017",thai,4.0,2.0,112,IPeh_5m9tKejHi-pjiG2rg
+190,yunomi handroll,96.0,"806 E 3rd St,Ste 100,Los Angeles, CA 90013",sushi,4.5,2.0,199,Q6Gkv6-kmyMMVmMojCuaDw
+191,pho 87,92.0,"1019 N Broadway,Los Angeles, CA 90012",vietnamese,4.0,2.0,1544,EiGZST3PxwKs94PTOsD4eQ
+192,jin chinese kitchen,93.0,"1930 W Olympic Blvd,Los Angeles, CA 90006",chinese,4.5,1.0,24,-Z-Je-27YcpaLZTi76wYtg
+193,the red chickz,93.0,"557 S Spring St,Los Angeles, CA 90013",chickenshop,4.0,2.0,522,KvQ6feUPuHy2TSzIrMXpOQ
+194,mitsuru cafe,98.0,"117 Japanese Village Plz Mall,Los Angeles, CA 90012",japanese,4.0,1.0,862,W72Vw4dDILjmFtSC0z2CCw
+195,lala's argentine grill,92.0,"105 W 9th St,Los Angeles, CA 90015",steak,4.5,2.0,238,2AGiIf_qute8Yjyz-le5rQ
+196,ilcaffe,95.0,"855 S Broadway,Los Angeles, CA 90014",coffee,4.0,1.0,240,buX4WqNdoEsXJAQo0prbIQ
+197,el cholo,93.0,"1037 S Flower St,Los Angeles, CA 90015",mexican,3.5,2.0,857,JvYCa7lKBmAAnZMlbQxFrQ
+198,mi bandera pupuseria,93.0,"3419 S San Pedro St,Los Angeles, CA 90011",salvadoran,4.5,2.0,107,uE_1a5RhYUD5q-gRH58B2Q
+199,eggslut,93.0,"317 S Broadway,Grand Central Market,Los Angeles, CA 90013",breakfast_brunch,4.0,1.0,6056,b4SH4SbQUJfXxh6hNkF0wg
+200,berlin currywurst,94.0,"317 S Broadway,Stall 22,Grand Central Market,Los Angeles, CA 90013",german,4.0,2.0,274,CEgXWVuffLS6yjq_O0seVg
+201,blossom restaurant,96.0,"426 S Main St,Los Angeles, CA 90013",vietnamese,3.5,2.0,1092,yNBlfI0twfw2-r8Chsgdfg
+202,mochinut downtown la,94.0,"728 S Olive St,Los Angeles, CA 90014",donuts,4.5,,93,HPDk093qwYwCS0Lwkd6xJg
+203,sakana sushi lounge,91.0,"321 W 9th St,Los Angeles, CA 90015",japanese,4.0,2.0,371,CWCBnOBZu9f86e-ViVSL6w
+204,au lac,96.0,"710 W 1st St,Los Angeles, CA 90012",vietnamese,4.0,2.0,1054,CP0ICg1dZqEOt3UtNapjKg
+205,izakaya osen,95.0,"2903 Sunset Blvd,Los Angeles, CA 90026",sushi,4.5,2.0,1203,us0WnDOySVXXXwCqs0AaCw
+206,asian box,94.0,"445 S Figueroa St,Los Angeles, CA 90071",asianfusion,4.0,1.0,180,8h5z9lllo4x5HcBnOBOaBg
+207,hatch,90.0,"700 W 7th St,Ste G600,Los Angeles, CA 90017",japanese,4.0,2.0,669,eUkd8atkJe4fkKGcD5QZ1A
+208,olio gcm wood fired pizzeria,96.0,"317 S Broadway,Los Angeles, CA 90013",pizza,4.0,2.0,343,C3Yv3DBc7LPekpcMMDKS0A
+209,fogo de chao,90.0,"800 S Figueroa St,Los Angeles, CA 90017",steak,3.5,3.0,1479,euIu-4rVEKrsAMMC8A0vZQ
+210,mr. masala,93.0,"949 S Figueroa St,Los Angeles, CA 90015",indpak,4.0,2.0,296,6sOis7jSU7uam8w35WEn7A
+211,spitz - little tokyo,96.0,"371 E 2nd St,Los Angeles, CA 90012",mediterranean,4.0,2.0,1695,nxUUYDgQ-VWwjaxmRGJBkg
+212,fisherman's outlet,99.0,"529 S Central Ave,Los Angeles, CA 90013",seafoodmarkets,4.0,2.0,1215,TQjFx3yzyUYBdWb-MpIfvQ
+213,broadway cuisine,96.0,"913 N Broadway,Los Angeles, CA 90012",chinese,4.5,2.0,45,KaT_tPTpDrTtyczTpZnvSw
+214,everytable,98.0,"1101 W 23rd St,Los Angeles, CA 90007",salad,4.5,1.0,315,wjU7E9cMWgxZO9HNTn_tig
+215,cow cafe,97.0,"342 W Pico Blvd,Los Angeles, CA 90015",cafes,4.5,2.0,162,KN4dbEU1TFbRhehvi_xV0g
+216,z falafel,92.0,"725 S Hill St,Los Angeles, CA 90014",falafel,4.0,2.0,61,gCxwL1pAJDJkAylbfMKylQ
+217,california kabob kitchen,91.0,"141 W 11th St,Los Angeles, CA 90015",mideastern,4.0,2.0,251,Z6_Gitnw1JV-KIJYioFtHA
+218,calif. chicken cafe,94.0,"809 S Hill St,Los Angeles, CA 90014",salad,4.5,2.0,202,G_Z-MgQ1OL5GlkIJ6w_fFw
+219,woodspoon,91.0,"107 W 9th St,Los Angeles, CA 90015",brazilian,4.0,2.0,1454,ta7GyGyMGnn_LeJkUeLqdQ
+220,la barca restaurant,91.0,"2414 S Vermont Ave,Los Angeles, CA 90007",mexican,4.0,2.0,955,FBRxoQSWtziiU_A5tscVGA
+221,sushi gen,94.0,"422 E 2nd St,Los Angeles, CA 90012",sushi,4.5,3.0,3944,YBmk31pBPukmnRyioe5uBA
+222,tenno sushi,91.0,"207 S Central Ave,Los Angeles, CA 90012",japanese,4.0,2.0,1821,InOqSX9rLUAqAP7Q13UrQg
+223,prime pizza,97.0,"141 S Central Ave,Los Angeles, CA 90012",pizza,4.0,1.0,317,G_5uMbKvEWKarsxlm-VhqQ
+224,tacos 1986,97.0,"609 S Spring St,Los Angeles, CA 90014",tacos,4.0,1.0,630,k3D-nW6EjjJguYkUupCUaA
+225,silverlake ramen dtla,99.0,"615 S Spring St,Los Angeles, CA 90014",ramen,3.5,2.0,287,qbX-jR8QBAGWZ5WHw0Js8A
+226,habachihana grill,95.0,"1045 S Hill St,Los Angeles, CA 90015",steak,3.5,2.0,223,_a1mVQvn7Ucp7aKm7XaAig
+227,northern cafe,95.0,"2904 S Figueroa St,Los Angeles, CA 90007",noodles,3.5,2.0,324,qpZCi8oVqxOA_YSIaCaMnw
+228,el huero,92.0,"3000 S Figueroa St,Los Angeles, CA 90007",mexican,4.0,2.0,1052,2t-FTIdnJC1gDjpims7oMQ
+229,ebaes,94.0,"2314 S Union Ave,Los Angeles, CA 90007",tapasmallplates,4.0,2.0,843,3IoIViOW1W38eQOPWm0_DA
+230,mendocino farms,92.0,"735 S Figueroa Ave,Los Angeles, CA 90017",sandwiches,4.5,2.0,832,cEGNvEu0QtRLs7uVqY0dag
+231,urth caffé- downtown la,97.0,"451 S Hewitt St,Los Angeles, CA 90013",coffee,4.0,2.0,5582,0WyRlH-fxOVLh1b3oEBEEQ
+232,pinches tacos,95.0,"610 W 6th St,Los Angeles, CA 90017",tacos,3.0,2.0,60,CmIuXeP4Gsadd_yzXC2pog
+233,10e,91.0,"811 W 7th St,Los Angeles, CA 90017",mediterranean,4.0,2.0,721,nYD88woJ2pQn8iGPi6emrQ
+234,petite peso,90.0,"419 W 7th St,Los Angeles, CA 90014",filipino,4.5,2.0,86,vb1-f0AzBYJOqKCFk4dUHA
+235,pez cantina,91.0,"401 S Grand Ave,Fl 1,Los Angeles, CA 90071",seafood,4.0,2.0,1055,hIythZZ3mpPwwhSJkUuJQQ
+236,golden lake eatery cambodian restaurant,83.0,"424 W College St,Los Angeles, CA 90012",cambodian,4.0,1.0,271,GWkTJVxzieQM2KfaAk9sBQ
+237,burgerlords chinatown,98.0,"943 N Broadway,Ste 102,Los Angeles, CA 90012",burgers,4.0,2.0,861,ierxTDAcyBrBXFyMadrAlA
+238,delicious at the dunbar,92.0,"4229 S Central Ave,Los Angeles, CA 90011",soulfood,4.0,2.0,124,gnJxuqr3Y2641FZVPmKk1g
+239,yuk dae jang,90.0,"3033 W 6th St,Ste 104-105,Los Angeles, CA 90020",korean,4.5,2.0,661,3C2wUqSkpY4-N0O5ArVjwQ
+240,carnitas michoacan,87.0,"1901 N Broadway,Los Angeles, CA 90031",mexican,4.0,1.0,1357,_FYGof7wh6AsZW_L_wuV8g
+241,le petit paris,97.0,"418 /420 S Spring St,Los Angeles, CA 90013",french,4.0,3.0,1436,yqfZcttHy2WdYFzMQQaXoA
+242,pizza napolita,98.0,"541 S Spring St,Ste 112,Los Angeles, CA 90013",pizza,4.5,2.0,134,tqszqqYqfTreG7z-OQt3GQ
+243,z falafel,91.0,"806 W 8th St,Ste A,Los Angeles, CA 90017",mediterranean,4.5,2.0,223,o544PxUX9ef8yUBEDQmswg
+244,wild living foods,98.0,"760 S Main St,Los Angeles, CA 90014",juicebars,4.0,2.0,627,cGaz4-wz0jhAB_Qr5byusg
+245,blu jam cafe,94.0,"541 S Spring St,Ste 110,Los Angeles, CA 90013",breakfast_brunch,4.0,2.0,1480,Qexm-LVzSEcGjuH3yYulmA
+246,ricebox,99.0,"541 S Spring St,Ste 131,Los Angeles, CA 90013",bbq,4.5,2.0,300,hPevQl0mBhTFUXZ0baMq0Q
+247,full moon house,81.0,"960 N Hill St,Los Angeles, CA 90012",chinese,4.0,2.0,379,bJeMe365G76fcnFqBHxppg
+248,wake & late,94.0,"105 East 6th St,Los Angeles, CA 90014",coffee,4.5,2.0,923,GMyarj6vbMqr-sS2UG4KVw
+249,porchetta republic,90.0,"1220 West 7th St,Los Angeles, CA 90017",foodstands,5.0,2.0,116,Qy8Qrv3ZOt7swuA7Rw5mHw
+250,larchmont bungalow cafe,93.0,"2110 Sunset Blvd,Ste N,Los Angeles, CA 90026",cafes,4.0,2.0,494,puo151bPwqvTl46LYZyOsA
+251,mediterranean delight,90.0,"726 S Hill St,Los Angeles, CA 90014",persian,4.5,2.0,80,JgwivnG17XDFnMAGHUCpsw
+252,sultan chicken,94.0,"311 W 6th St,Los Angeles, CA 90014",mideastern,4.0,1.0,365,vywBUQsQ6r3x8U8FkrPJAA
+253,yuko kitchen - los angeles,90.0,"101 W 5th St,Los Angeles, CA 90013",japanese,4.5,2.0,399,4AX7DMPPq2t-Hf8dEpi3yA
+254,el patroncito mexican cuisine,91.0,"421 Venice Blvd,Los Angeles, CA 90015",mexican,4.5,1.0,229,Vl31AJJ7smvgt5Pu5MsP-A
+255,farmer boys,92.0,"726 S Alameda St,Los Angeles, CA 90021",breakfast_brunch,3.0,2.0,618,wO0qB3ZUY4A2ti3yYH-1xA
+256,colori kitchen,93.0,"429 W 8th St,Los Angeles, CA 90014",italian,4.0,2.0,1755,Kz8ZETLCLPNzzs9Tb4u1SQ
+257,rice & nori,97.0,"123 Astronaut E S Onizuka St,Ste 103,Los Angeles, CA 90012",japanese,4.5,1.0,467,g5s8qBx7_uUU-3pALdvCMQ
+258,wok n' tenders,95.0,"312 W Olympic Blvd,Los Angeles, CA 90015",chickenshop,4.5,2.0,63,iM1jGSf06bihs3GUDbJqjQ
+259,h&h brazilian steakhouse downtown la,99.0,"518 W 7th St,Los Angeles, CA 90014",brazilian,4.5,,762,KAG0aFy962JY38UeWI8pWQ
+260,orleans & york deli,95.0,"333 S Spring St,Los Angeles, CA 90013",delis,4.0,2.0,392,iWS7Olqaw4hyWvMLIwJ9mw
+261,thai silk express,96.0,"1260 S Soto St,Ste 17,Los Angeles, CA 90023",thai,4.0,1.0,184,S9atsN7yo_pu8eJWkIlVxw
+262,jinya ramen bar - los angeles,84.0,"700 Wilshire Blvd,Ste B,Los Angeles, CA 90017",ramen,4.0,2.0,502,2GoGnKxRmKeL_D49pHlGKA
+263,marugame monzo,97.0,"329 E 1st St,Los Angeles, CA 90012",japanese,4.5,2.0,4075,fxeuGYnoRWwm5aGDg1FRJA
+264,cassell's hamburgers dtla,93.0,"421 W 8th St,Los Angeles, CA 90014",burgers,4.0,2.0,214,TNzKsP9RznnTy2KclvLq0w
+265,dtla ramen,92.0,"952 S Broadway St,Los Angeles, CA 90015",ramen,4.0,2.0,657,STe3KancAkR7kqEL7wydow
+266,orsa & winston,93.0,"122 W 4th St,Los Angeles, CA 90013",italian,4.0,4.0,539,ZIsekcDGiAjF7yruJZSOrQ
+267,original pantry cafe,91.0,"877 S Figueroa St,Los Angeles, CA 90017",tradamerican,3.5,2.0,3143,Nlofg9suE-UaMf087oEVUA
+268,le grand,82.0,"707 S Grand Ave,Los Angeles, CA 90017",italian,4.5,2.0,627,W-znmhcbAFwoDtqLCmc9JA
+269,seasalt fish grill,93.0,"812 W 7th St,Los Angeles, CA 90017",seafood,4.0,2.0,835,6kvWWkoL0dWOEmFh2ui-vQ
+270,comfort la,81.0,"1110 E 7th St,Los Angeles, CA 90021",comfortfood,4.0,2.0,1037,yAuYzMcr57EVrPzyOcODlQ
+271,panini kabob grill - downtown la,90.0,"600 W 9th St,Los Angeles, CA 90015",mediterranean,4.0,2.0,1669,S1JEJ_abdhiV5tZ89ENPfQ
+272,the new moon,97.0,"102 W 9th St,Los Angeles, CA 90015",chinese,4.0,2.0,273,5WRkjiZWv25aGOUqfupSUQ
+273,uobei,91.0,"112 W 9th St,Los Angeles, CA 90015",japanese,5.0,,61,FfNg-hqpH5_lDZmhNUfYNA
+274,kazunori  | the original hand roll bar,97.0,"421 S Main St,Los Angeles, CA 90013",sushi,4.5,2.0,3071,hC745S5W4HTq606ySmBJNw
+275,tulsi indian eatery,92.0,"408 S Main St,Los Angeles, CA 90013",vegetarian,4.5,,158,1noKWuAZ6hTG7FVmrw4Eow
+276,catch 21,73.0,"441 S Central Ave,Los Angeles, CA 90013",seafood,4.0,1.0,156,IAPZLVEDjOeEd_uRqORu3Q
+277,cilantro lime,95.0,"934 S Los Angeles St,Ste 2,Los Angeles, CA 90015",mexican,4.5,1.0,462,bHkfCBRQfAd60luOgRxkjw
+278,otium,98.0,"222 S Hope St,Los Angeles, CA 90012",newamerican,4.0,3.0,2156,G_V5eJFfYlTEERyIPR-8MQ
+279,frame pizzeria ,92.0,"911 S Hill St,Los Angeles, CA 90015",pizza,5.0,,41,65jOcKOd2FDFx2PuRXz-cw
+280,pikunico,94.0,"767 S Alameda St,Suite 122,Los Angeles, CA 90021",japanese,4.0,2.0,238,uIYiJF3CSTXQsXSKonYydQ
+281,chinese friends restaurant,95.0,"984 N Broadway,Los Angeles, CA 90012",chinese,4.0,2.0,382,EXZGlBE2S3glZR11G1EBeQ
+282,rike,100.0,"228 E 1st St,Los Angeles, CA 90012",japanese,4.5,2.0,93,JyRCzER-tCbiB7d11-dKpQ
+283,the escondite,97.0,"410 Boyd St,Los Angeles, CA 90013",tradamerican,4.0,2.0,694,ZXLsi_UFu-kXDXrUpmLumg
+284,savoca,92.0,"900 W Olympic Blvd,Los Angeles, CA 90015",italian,3.5,,27,XBkRSNtBggWGMIfqmIlF2Q
+285,qq cafe,98.0,"824 San Julian St,Unit 116,Los Angeles, CA 90014",salad,4.5,1.0,42,pZey4B40lVGW84-kUuCdOQ
+286,first draft taproom & kitchen,92.0,"1230 S Olive St,Los Angeles, CA 90015",newamerican,4.0,2.0,180,0uA5OgE1veZF61HtS9ewGQ
+287,pattern bar,95.0,"100 W 9th St,Los Angeles, CA 90015",cocktailbars,4.0,2.0,436,oZIKA92DwMm7uxyuXpmfMg
+288,masa of echo park,96.0,"1800 W Sunset Blvd,Los Angeles, CA 90026",pizza,4.0,2.0,4443,CbW8U0QAwh5XRkaLt0xNZA
+289,zinc cafe & market,96.0,"580 Mateo St,Los Angeles, CA 90013",breakfast_brunch,4.0,2.0,1866,PMj1TDcrvYTxEXd-g9LcWA
+290,sonoratown,94.0,"208 E 8th St,Los Angeles, CA 90014",mexican,4.5,2.0,1528,Ti2Ksp2oPj6rpdp2tQcaVA
+291,dream kabob house,99.0,"229 E 9th St,Los Angeles, CA 90015",salad,5.0,1.0,158,ClGqJ80ObaoTtGVV6_g5dA
+292,braazo pizza,96.0,"100 1/2 W 7th St,Los Angeles, CA 90014",pizza,4.5,2.0,770,T1RfgUMYKW3HD55SEJILbQ
+293,il bambino restaurant,94.0,"1403 S Hooper Ave,Los Angeles, CA 90021",italian,4.5,2.0,225,fARvUjZALi0qdmgRS1uMhQ
+294,u star cafe,93.0,"1109 E 12th St,Los Angeles, CA 90021",cafes,4.5,,21,ASQzP2QHhoJb1_SzjAEo1g
+295,colburn café,95.0,"200 S Grand Ave,Los Angeles, CA 90012",newamerican,3.5,1.0,77,GA_o5UVZBqXWezE1uYClng
+296,birrieria don boni,97.0,"1845 E 1st St,Los Angeles, CA 90033",mexican,4.0,2.0,520,_Ud0KZCY_-t_Kl8rDK-Zxg
+297,zuma pop up at inko nito,94.0,"225 S Garey St,Los Angeles, CA 90012",asianfusion,5.0,,1,C_3-Xh9AvJx1ugwvPbQ-OA
+298,pizzanista!,92.0,"2019 E 7th St,Los Angeles, CA 90021",pizza,4.0,1.0,1308,ICTrXwuFczeXxHye7fQxlA
+299,little sister,85.0,"523 W 7th St,Los Angeles, CA 90017",vietnamese,4.0,2.0,1604,gjPZZzmkVANey4vGFYmC7A
+300,the italian stallion,90.0,"215 W 6th St,Los Angeles, CA 90013",italian,5.0,,8,-qyxITZPlr0aDV2IBYB6Tw
+301,la prime,92.0,"404 S Figueroa St,The Westin Bonaventure Hotel and Suites,Los Angeles, CA 90071",steak,4.0,4.0,987,qLEz9y4lYHzEBko0o6SXpQ
+302,daikokuya little tokyo,94.0,"327 E 1st St,Los Angeles, CA 90012",ramen,4.0,2.0,8980,iSZpZgVnASwEmlq0DORY2A
+303,lemonade,91.0,"250 S Grand Ave,Los Angeles, CA 90012",newamerican,4.0,2.0,337,bdHCyyGuBWQqw47VMhJGdg
+304,rose bakery,95.0,"608 Imperial St,Los Angeles, CA 90021",cafes,5.0,,9,OQlO6G6p00EkU7d8g0ahvw
+305,the park's finest,92.0,"1267 W Temple St,Los Angeles, CA 90026",bbq,4.0,2.0,2157,eNPaF_hVdpxMkzyq9kenYQ
+306,ziran,93.0,"333 S Figueroa St,Los Angeles, CA 90071",newamerican,4.0,2.0,99,HUuiz9kpDi8i46mT4Yo2xA
+307,noe restaurant and bar,96.0,"251 S Olive St,Los Angeles, CA 90012",bars,4.0,2.0,550,vsVGA4-vCEHCBi6RUK_WFA
+308,the wolves,90.0,"519 S Spring St,Los Angeles, CA 90013",cocktailbars,4.0,2.0,248,20q1O9lNZsD9RrKTURFr2A
+309,flavors of thai,97.0,"1275 S Union Ave,Los Angeles, CA 90015",thai,4.0,2.0,753,LjFzKhP13GS6_CRM0HkEVg
+310,traxx restaurant,93.0,"800 N Alameda St,Los Angeles, CA 90012",newamerican,4.5,,41,Brpb042-ps06D6w3E50f1g
+311,chichen itza restaurant,97.0,"3655 S Grand Ave,Ste C6,Los Angeles, CA 90007",mexican,4.5,2.0,1306,vC_6J_nGyf4J8xt-Vu6Shw
+312,amboy,92.0,"727 N Broadway,Ste 117,Los Angeles, CA 90042",steak,4.5,2.0,200,oMWttbTso0Mh_aIDIAFToQ
+313,wurstküche,,"800 E 3rd St,Los Angeles, CA 90013",hotdog,4.0,2.0,8664,KQBGm5G8IDkE8LeNY45mbA
+314,howlin' ray's,,"727 N Broadway,Ste 128,Los Angeles, CA 90012",southern,4.5,2.0,7025,7O1ORGY36A-2aIENyaJWPg
+315,sugarfish by sushi nozawa,,"600 W 7th St,Ste 150,Los Angeles, CA 90017",japanese,4.0,3.0,2587,lE0ceQRIUrhvfUE8Pg9sXw
+316,cafe dulce,,"134 Japanese Village Plz,Bldg E,Los Angeles, CA 90012",coffee,4.0,1.0,2269,8rVWoDNS6JO-5uXOD3VyXw
+317,far bar,,"347 E 1st St,Los Angeles, CA 90012",asianfusion,3.5,2.0,1992,EjRBYCUq2sx-TH77zubUfw
+318,joey dtla,,"700 W 7th St,Ste S430,Los Angeles, CA 90017",newamerican,4.5,,1731,_n0fEUZdbkLOimHz_IXkiQ
+319,fleming’s prime steakhouse & wine bar,,"800 W Olympic Blvd,Ste A-135,Los Angeles, CA 90015",steak,4.0,4.0,1725,1toW0p9uJQMEayWlUDz4WQ
+320,katsuya,,"800 W Olympic Blvd,Ste 220,Los Angeles, CA 90015",sushi,3.5,3.0,1624,XhD5aTVFVjAZqr4bLd_nIQ
+321,sushi enya - los angeles,,"343 E 1st St,Los Angeles, CA 90012",japanese,4.5,3.0,1529,tJsZbLxMiykQCek_-diOvg
+322,mex peru gipsy,,"414 E 12th St,Los Angeles, CA 90015",mexican,5.0,2.0,1274,beA_DlDpij8O9xK2B-NjEA
+323,mrs fish,,"448 South Hill St,Los Angeles, CA 90013",sushi,4.0,2.0,1245,mpXwW9YEu0uEFadsfFy26w
+324,broken mouth | lee's homestyle,,"718 S Los Angeles St,Los Angeles, CA 90014",hawaiian,5.0,2.0,1183,CcqraT0cuGKYEcZ1ri_kxg
+325,figueroa philly cheese steak,,"358 W 38th St,Los Angeles, CA 90037",cheesesteaks,4.5,2.0,1166,vfHJzF0ShYtwmotXE-0PiA
+326,majordomo,,"1725 Naud St,Los Angeles, CA 90012",newamerican,4.0,3.0,1092,4Zx7Lw4U6F0sXrV4aiIyqQ
+327,ramen hood,,"317 S Broadway St,Los Angeles, CA 90013",ramen,4.5,2.0,1062,-dqkgjUUIDOb4V1dC4X70A
+328,corn man,,"2338 Workman St,Los Angeles, CA 90031",foodstands,4.5,1.0,1007,PXYKRPkEcf4Mczfp_AfP0w
+329,tot / teishokuya of tokyo,,"345 E 2nd St,Los Angeles, CA 90012",japanese,3.5,2.0,877,FZEfk7X6_5-C3GMmsXoAZQ
+330,wood,,"2861 Sunset Blvd,Los Angeles, CA 90026",pizza,4.0,2.0,875,F2W1R7yIvSOqD1xH_F1cZA
+331,dama,,"612 E 11th St,Los Angeles, CA 90015",latin,4.5,3.0,832,-9NXuo0g_NwOPfnKX3Vr_g
+332,little bear,,"1855 Industrial St,Los Angeles, CA 90021",belgian,3.5,2.0,792,ZAfPTUXULIuma2N6Sb-dMQ
+333,peking tavern,,"806 S Spring St,Los Angeles, CA 90014",gastropubs,4.0,2.0,783,iOuz4WzpUaG6MOajq4Hi2A
+334,the palm - l.a. downtown,,"1100 S Flower St,Los Angeles, CA 90015",steak,3.5,3.0,737,Xd8hcop1s2uCMNUP6rTo0Q
+335,casa fina restaurant & cantina,,"1842 E First St,Los Angeles, CA 90033",mexican,4.0,2.0,721,1pa6C6pBW5MJdZjsAQRa2A
+336,tsurumaru udon honpo,,"333 S Alameda St,Ste 301, Fl 3,Los Angeles, CA 90013",japanese,4.0,1.0,645,1woFV7IpgaGZCkOvixyRdg
+337,broken shaker at freehand los angeles,,"416 West 8th St,Los Angeles, CA 90014",cocktailbars,3.5,2.0,640,U_r40GZhG6fUpbsFvnK2mg
+338,strada eateria & bar,,"825 W 9th St,Los Angeles, CA 90015",tapasmallplates,4.5,3.0,591,yQVPKXmDIUb6yH3MM8Q3nQ
+339,mezcalero,,"510 S Broadway,Los Angeles, CA 90013",cocktailbars,4.0,2.0,588,yyTLKAplUF89xydeB2bZWQ
+340,tire shop taqueria,,"4069 S Avalon Blvd,Los Angeles, CA 90011",mexican,4.5,1.0,584,UUlGlPfy0FsReQ2LWWBSWw
+341,district,,"700 West 7th St,Los Angeles, CA 90017",cocktailbars,4.0,2.0,579,tNLPTQYYfzh3IL7YoS1s_g
+342,amante restaurant,,"123 E 9th St,Los Angeles, CA 90015",italian,3.5,2.0,573,E_3yd3pJAxFPp-zt7aCtZg
+343,ktchn dtla,,"428 S Hewitt St,Los Angeles, CA 90013",breakfast_brunch,4.0,2.0,522,Bwx213S4DZz2-e1WOdl_ig
+344,fixins soul kitchen - los angeles,,"800 W Olympic Blvd,Ste A150,Los Angeles, CA 90015",soulfood,4.5,2.0,509,PI1TAMjFy1wO9OCiA-VWBA
+345,dekkadance,,"900 Wilshire Blvd,Fl 69,Los Angeles, CA 90017",pizza,3.5,3.0,446,NGOnzqtfDVdfZSnwqGdwIA
+346,the rooftop at the wayfarer downtown la,,"813 Flower St,Los Angeles, CA 90017",newamerican,3.5,3.0,423,1mb6fp_JRp4Y68GStJsGIQ
+347,la boucherie,,"900 Wilshire Blvd,Fl 71,Los Angeles, CA 90017",steak,4.0,4.0,411,QKNCjonKZ8OkfbCD_j7JHA
+348,kinjiro,,"424 E 2nd St,Honda Plaza,Los Angeles, CA 90012",izakaya,4.5,3.0,406,OQtm6aFK58dUVJRBMTxyqg
+349,rappahannock oyster bar,,"777 S Alameda St,Ste 154,Los Angeles, CA 90021",seafood,4.0,2.0,403,FoBImsch8xY3ANNGWL32Bw
+350,the exchange restaurant,,"416 West 8th St,Los Angeles, CA 90014",mideastern,4.0,2.0,402,8aDkzc7pF1sog5btfm2_Rg
+351,kato,,"777 Alameda St,Bldg 1 Ste 114,Los Angeles, CA 90021",japanese,4.5,4.0,398,nMCeecupa8jfOq7-Dcs6Dg
+352,kashira sushi,,"766 S Santee St,Los Angeles, CA 90010",japanese,3.5,2.0,395,hBKqBlnut9bcPLPk1gdh_A
+353,otomisan restaurant,,"2506 E 1st St,Los Angeles, CA 90033",japanese,4.5,2.0,381,WWZSzdIL_a2TnLBc5hZ0_A
+354,oleego by parks bbq,,"735 S Figueroa St,Ste 123,Los Angeles, CA 90017",asianfusion,4.0,1.0,360,rMs8GH8MMOdA2Avon-YNOw
+355,frymadness,,"555 S Spring St,Los Angeles, CA 90013",tradamerican,4.0,2.0,347,LcRB5s8-VDCSmpxWK0lwfw
+356,tacos mexico,,"913 S Broadway,Los Angeles, CA 90015",mexican,3.5,1.0,316,A1z9zXowKDHLdd5eL9x-gg
+357,sushi zo  | downtown los angeles,,"334 S Main St,Ste 1106,Los Angeles, CA 90013",japanese,4.5,4.0,310,gHjqZaWcMjkvloNjACqLAg
+358,the burrow bar & kitchen,,"819 Flower St,Los Angeles, CA 90017",gastropubs,4.5,2.0,307,1lxtw52CJ9ip6VqQCzt2Fw
+359,bo daddy’s bbq,,"1415 S Hill St,Los Angeles, CA 90015",bbq,4.5,2.0,301,ImWjgRhcohdWYTPUt4iaZw
+360,funculo,,"724 S Spring St,Los Angeles, CA 90014",italian,4.5,2.0,295,wBl2kT_V44-Y7frfdtOusg
+361,tanota takoyaki,,"350 E 1st St,Los Angeles, CA 90012",japanese,4.0,2.0,291,pO1FnpTADBuZg1JJiTJfGA
+362,cava,,"3201 S Hoover,Ste 1840,Los Angeles, CA 90089",mediterranean,4.0,2.0,280,m_Mb47u9F_G8NR0Fmg6GRg
+363,chuy’s tacos dorados,,"1335 Willow St,Los Angeles, CA 90013",tacos,4.0,1.0,277,T2yz7XPwL8CpBUcwnHhfow
+364,tian's dim sum & fast food,,"809 N Hill St,Los Angeles, CA 90012",dimsum,3.5,1.0,276,WSISRKQwwyARA34XKUfrtA
+365,zinqué,,"939 S Broadway,Los Angeles, CA 90015",breakfast_brunch,4.0,2.0,274,hnHwGO-uDz9TjQw2xGBZTw
+366,v los angeles,,"515 W 7th St,Los Angeles, CA 90014",cocktailbars,4.0,2.0,270,qhPBVr8vv75EsQXB_B194Q
+367,trattoria 25,,"2501 S Santa Fe Ave,Vernon, CA 90058",italian,3.5,2.0,261,4fjCNwFoUFZqBqwBCbRoXg
+368,birrieria los gonzalez,,"2524 Maple Ave,Los Angeles, CA 90011",mexican,4.0,1.0,244,yMJpttJxzObbbRh0ekawmQ
+369,abeautifullife jamaican cafe,,"216 S Spring St,Los Angeles, CA 90012",caribbean,3.5,1.0,238,wDCB-CyI07fux_Bm93ejSQ
+370,patxi's pizza,,"1011 S Figueroa St,Ste B115,Los Angeles, CA 90015",pizza,3.5,2.0,234,zl80EB0eOfWQOhk5tUks8Q
+371,bang bang noodles,,"2748 W 8th St,Los Angeles, CA 90005",noodles,4.0,2.0,227,mrEgKltVkacoD6ZNWzQjyg
+372,keepers,,"200 S Los Angeles St,Los Angeles, CA 90012",breakfast_brunch,4.5,2.0,225,dl2EANNpRKjPBuQ_-iRrIA
+373,verve coffee roasters,,"500 Mateo St,Los Angeles, CA 90013",coffeeroasteries,4.0,2.0,225,JxTtsSpsFMjTPZLbfuCG5w
+374,qin west noodle,,"727 N Broadway,Ste 111,Los Angeles, CA 90012",chinese,4.0,1.0,220,5imw7dSuSB4HmUMrZep1lg
+375,east garden restaurant,,"750 N Hill St,Ste F,Los Angeles, CA 90012",chinese,4.0,2.0,218,P35lIoabQQm-c2QFJPhykg
+376,monty’s chicken & waffles,,"358 W 38th St,Los Angeles, CA 90037",waffles,4.0,2.0,205,6w7A4JOwwsUka_DhZFFIDA
+377,hill street bar & restaurant,,"200 S Hill St,Los Angeles, CA 90012",newamerican,4.5,2.0,198,hnTTd5XfwSoj7gI7Bl7r9A
+378,intiraymi restaurant peruvian food,,"633 N Spring St,Ste 2,Los Angeles, CA 90012",peruvian,4.0,2.0,197,kfZIEkkCy4OMglRnEjziBA
+379,pearl river deli,,"935 Mei Ling Way,Los Angeles, CA 90012",cantonese,4.5,2.0,182,Mywk3nUsqPvmzJiEOw4XYw
+380,firenza pizza,,"300 South Grand Avenue Lp 160,Ste LP 160,Los Angeles, CA 90071",pizza,4.0,2.0,182,iOOgawA64azHEwTlRd7tKQ
+381,mazal,,"110 N San Fernando Rd,Los Angeles, CA 90031",wine_bars,4.5,2.0,172,wvOLfMsrzTlgZw6GDgbz0g
+382,señor fish,,"155 S Main St,Los Angeles, CA 90012",mexican,3.5,2.0,164,fhgZPoQLejuh_iGgQ5Cp8A
+383,the blue star,,"2200 E 15th St,Los Angeles, CA 90021",newamerican,4.0,2.0,162,0CCBFL74LoxPLy-VH2HI8Q
+384,toms watch bar - los angeles,,"1011 S Figueroa St,Ste B 101,Los Angeles, CA 90015",sportsbars,3.5,2.0,152,7oA2JReIQDC0m3Z6MI3I5A
+385,grá,,"1524 Pizarro St,Los Angeles, CA 90026",pizza,4.5,,148,cxU5blDB5nnZIkn4amrf5A
+386,sibling rival,,"1060 S Broadway,Los Angeles, CA 90015",tradamerican,4.0,2.0,146,6_hED_ZLV78NdIjJ95l12Q
+387,sparrow,,"939 S Figueroa St.,Ste 200,Los Angeles, CA 90015",italian,4.0,3.0,144,l9CyWFbCaU6Wk6b8Tc4i8Q
+388,cabra,,"1060 S Broadway,Los Angeles, CA 90015",peruvian,4.5,3.0,137,bJvQKjdfoSVoEDSca9hfHg
+389,buddha belly,,"724 S Spring St,Unit 112,Los Angeles, CA 90015",thai,4.0,2.0,135,DuJhizM3g8JXuy2bi3PUlQ
+390,champion’s curry,,"136 S Central Ave,Los Angeles, CA 90012",japacurry,4.0,2.0,134,MJo_vetZGt8ZGkw-6XHHSQ
+391,burgershop,,"724 S Spring St,Los Angeles, CA 90014",burgers,4.5,2.0,131,Nm1iV8Aaat4EF_0hPevXhg
+392,sol agave,,"800 W Olympic Blvd,Ste A130,Los Angeles, CA 90015",newmexican,4.5,2.0,126,dq2iOFVVdwYFzQJ629ICjg
+393,garcons de cafe,,"541 S Spring St,Spring Arcade Building,Los Angeles, CA 90013",wine_bars,4.5,2.0,121,wiVESQxDY3CiXwohYs66lg
+394,cecilia’s caribbean cuisine,,"1403 W 11th St,Los Angeles, CA 90015",caribbean,4.5,2.0,120,j75RyXM_jYH6wUUZDFS29A
+395,lobsterdamus,,"777 S Alameda St,Los Angeles, CA 90021",seafood,3.5,2.0,120,_No6_zhCiks_UPzaqkmnzg
+396,cara cara,,"1100 S Broadway,Downtown L.A. Proper Hotel,Los Angeles, CA 90015",newamerican,4.0,,119,VndWkH3-0P1c23BZiuuAbg
+397,pepe's red tacos,,"2720 E Olympic Blvd,Los Angeles, CA 90023",foodtrucks,4.5,1.0,117,o5AL9lZhfa6glcS0vrmdkg
+398,the green olive,,"3632 Soto St,Los Angeles, CA 90058",mediterranean,4.0,2.0,116,6rCY1MjoIvTiv2cD5M96Yw
+399,jail joa,,"2500 W 8th St,Ste 180,Los Angeles, CA 90057",gastropubs,5.0,2.0,111,UN8HcPrLMRnUx3cv2D3-5A
+400,smile hotdog,,"333 S Alameda St,Ste 104,Los Angeles, CA 90013",hotdog,4.5,1.0,110,jqjR8zBq7AOBPPS1pteU4A
+401,k'grill korean cuisine,,"404 S Figueroa St,Ste 409,Los Angeles, CA 90071",korean,4.0,1.0,110,ROyE1YrbHVQX-Qkw0mMotA
+402,la birria by chef anaya,,"3330 S Central Ave,Los Angeles, CA 90011",tacos,4.0,,110,LCurKX4FcnHcVlhlRBUB8Q
+403,harbor house,,"1000 Wilshire Blvd,Los Angeles, CA 90017",newamerican,3.5,2.0,107,Sm_xPcCYeROs-xEzQfb8FA
+404,kombu sushi,,"300 S Santa Fe Ave,Ste Q,Los Angeles, CA 90013",sushi,5.0,,105,ef9V011CxwKcrAHYxyrNMA
+405,limericks tavern dtla,,"615 S Flower St,Los Angeles, CA 90017",bars,4.0,2.0,104,LfaqHWCeBXKdTECv6SdSWg
+406,fleur café,,"1300 W Olympic Blvd,Ste 102A,Los Angeles, CA 90015",coffee,5.0,,100,u2ifgpjzrWINDKNJ34h-1g
+407,paratta,,"672 S Santa Fe Ave,Los Angeles, CA 90021",indpak,4.5,2.0,100,7N9XBwhpApjM7onz9GnAUg
+408,de la nonna,,"710 E 4th Pl,Los Angeles, CA 90013",pizza,4.5,,94,gh4B1viUS0cIbMGmbbaJtA
+409,father’s office,,"905 E 2nd St,Los Angeles, CA 90012",gastropubs,4.0,,93,QGWk082jQPTOnMJHF9IPYg
+410,row dtla,,"777 S Alameda St,Los Angeles, CA 90021",shoppingcenters,3.5,2.0,87,mR3Ezmm8Ut29PyAHo5bO8g
+411,café fig,,"939 S Figueroa St,Unit 300,Los Angeles, CA 90015",cafes,4.5,2.0,86,NrQAjvoj57Qcn2i90otmaw
+412,ave 26 tacos,,"353 S Alameda St,Los Angeles, CA 90013",foodstands,4.5,1.0,85,ZDZ7erc2V5XpJ-ltWEKqoQ
+413,the capital grille,,"700 W 9th St,Unit B,Los Angeles, CA 90015",steak,4.5,,80,geGu4PB5dJax9r-zEQV-gg
+414,sushi takeda,,"123 Astronaut Ellison S Onizuka St,Ste 307,Los Angeles, CA 90012",sushi,4.5,4.0,80,HwNMHgBKApXCMj2H85VqEQ
+415,halmoni grandmas dukbokki,,"322 E Pico Blvd,Los Angeles, CA 90015",korean,4.5,1.0,76,0TOFZhAptnr8fW-aP77hiQ
+416,spring st. cafe,,"453 S Spring St,Fl 9,Los Angeles, CA 90013",cafes,5.0,2.0,73,DjlSNpl726qtV9rXjCU-Yg
+417,il giardino,,"3201 S Hoover St,Los Angeles, CA 90089",italian,4.5,2.0,71,FK2gwXlaA8Dpu9ufxgIXzA
+418,crispy cuban,,"1314 W 12th St,Los Angeles, CA 90015",foodtrucks,4.0,1.0,67,t5ma51ZbTl40_pG4RxEglg
+419,corporation food hall,,"724 S Spring St,Los Angeles, CA 90014",food_court,4.0,2.0,66,6AxzXdxHnEv-Pr6JZkHnmA
+420,bridgetown roti,,"777 S Alameda St,Los Angeles, CA 90021",caribbean,4.5,,64,FSJrDmvmVUyyYDUR_atwsw
+421,go get em tiger,,"777 Alameda St,Ste 184,Los Angeles, CA 90021",breakfast_brunch,3.5,1.0,62,kJAZddQsgRqLXSEHM5Zzcg
+422,ditroit taqueria,,"2117 Violet St,Los Angeles, CA 90021",mexican,4.0,,60,WR3_Dw58mCnmGq-cW7H0vw
+423,smoke queen bbq,,"777 S Alameda St,Los Angeles , CA 90021",popuprestaurants,5.0,,57,8XaCGb_UG_KrO_xISQzOEA
+424,lasita,,"727 N Broadway,Los Angeles, CA 90012",chickenshop,4.5,2.0,57,Gler-blXeDRz6YnNnrEd5g
+425,biriyani kabob house,,"517 S Spring St,Los Angeles, CA 90013",halal,4.5,,54,L9_-zRSBehi6OJAyaaoQvA
+426,guerrilla cafecito,,"704 Mateo St,Los Angeles, CA 90021",breakfast_brunch,4.0,,51,M6lXn5-Ov-oppGn4TNxkRw
+427,bacetti trattoria,,"1509 Echo Park Ave,Los Angeles, CA 90026",italian,4.0,,50,PhODcqviyHMrDqbB5S8aCQ
+428,w kitchens,,"1225 E Washington Blvd,Unit C,Los Angeles, CA 90021",cajun,5.0,,49,sXYTjKqVpTDfk3rs2PJr1A
+429,dogs chicks,,"1551 W 7th St,Ste C,Los Angeles, CA 90017",chicken_wings,4.5,2.0,47,vPL697H_kC4p_PRFzXCR_w
+430,sushi kaneyoshi,,"111 S San Pedro St,Ste B1,Los Angeles, CA 90012",sushi,4.5,4.0,47,ywscgA5LUgvwX7WrPuAM2A
+431,marlou dtla,,"819 S Flower St,Los Angeles, CA 90017",newamerican,4.5,,46,sSlFeRTzdCkkLO8mXBQG7Q
+432,supamu,,"929 W Jefferson Blvd,Los Angeles, CA 90007",japanese,4.5,,46,a_uYoJZXXU6qchol8caoGA
+433,la casita,,"939 S Figueroa,Ste 500,Los Angeles, CA 90015",lounges,4.0,,43,s-sVDE_DJjhlGwJMentdkQ
+434,sampa,,"615 S Central Ave,Los Angeles, CA 90021",filipino,5.0,,41,s4bu_G4GYbKXZBaC7WwM7A
+435,bike shed moto co - los angeles,,"1580 Industrial St,Los Angeles, CA 90021",bars,4.5,2.0,40,PWKG8FkZHNchXS7yP2RUYA
+436,devorame,,"655 South Hope St,Los Angeles, CA 90017",foodtrucks,4.5,,40,atwvQmt_Z0HG28mWHuwxHg
+437,good clean fun,,"868 S Olive St,Los Angeles, CA 90015",wine_bars,4.5,2.0,38,IUm-XR_PcbHIARMv8HH0Zg
+438,gyu-kaku japanese bbq,,"514 W 7th St,Los Angeles, CA 90014",japanese,4.5,,38,2hfm4Ngp_OpBj29tcUQzkQ
+439,camphor,,"923 East 3rd St,Los Angeles, CA 90013",french,5.0,4.0,37,LY7ERi0y0OPzk-pNhFadDw
+440,cocina roja,,"135 N Grand Ave,Los Angeles, CA 90012",mexican,3.5,,37,zXYAVcrLlwIDJl2gak59oA
+441,caldo verde,,"1100 S Broadway,Los Angeles, CA 90015",breakfast_brunch,4.0,3.0,32,aR-WRPNJVySZML-4sBn89Q
+442,brothecary,,"785 Bay St,Los Angeles, CA 90021",gourmet,4.0,1.0,32,fBIxg3ejvI-Cp-eea2XI-A
+443,hi bakery,,"2037 E 7th St,Los Angeles, CA 90021",bakeries,5.0,,30,R9KSEEqy5yijjWovLgwYZw
+444,smoke city char bar,,"899 Traction Ave,Los Angeles, CA 90013",bbq,4.0,3.0,28,wCtiitDXjtYsMpQABRHn_A
+445,amandine patisserie café dtla,,"650 S Hill St,Plaza 1, K-10,Los Angeles, CA 90014",bakeries,4.0,,28,lm21MuH1GjFzM7yXUILcBA
+446,gusto green,,"718 S Hill St,Los Angeles, CA 90014",newamerican,5.0,,25,UmngZTc00wQjUq17bIp1QA
+447,got paella,,"Los Angeles, CA 90071",foodtrucks,4.5,,25,xInbYfhJbFlSMJ65mPerXA
+448,asterid,,"141 S Grand Ave,Walt Disney Concert Hall,Los Angeles, CA 90012",newamerican,4.5,,23,vBWYSv3Au1mylKUReJRp2Q
+449,detroit vesey's,,"2028 E 7th St,Los Angeles, CA 90021",breakfast_brunch,4.5,2.0,23,IT1zqW7SC8lZUGrAYvk6og
+450,el aji cocina peruana,,"735 E 12th St,Los Angeles, CA 90015",peruvian,4.5,1.0,23,8yULNL97ea_9NsZwaw56nw
+451,nate 'n al delicatessen,,"Staples Ctr,1111 S Figueroa St,Los Angeles, CA 90015",delis,4.0,2.0,23,Wlw7GAeqbMqealivxsFyeQ
+452,d lo’s kitchen,,"801 S Hope St,Los Angeles, CA 90017",seafood,4.5,,22,LCsQsf9KXASmXIGEO87GJw
+453,margarita's tacos & grill,,"2538 S Alameda St,Vernon, CA 90058",tacos,4.5,,22,jTLsr3JeCgSg5xgvY3-xEQ
+454,daniels katsu and fries,,"735 E12th St,Ste 409,Los Angeles, CA 90015",japanese,4.5,1.0,21,WCXCSF014dcZhlnsSp9MNQ
+455,downtown la pho,,"505 Flower St,Ste B300 A,Los Angeles, CA 90071",vietnamese,5.0,2.0,19,aK1f01AgOWMn2pcuKyxGNw
+456,ellenos,,"317 S Broadway,Los Angeles, CA 90013",icecream,5.0,,18,lpS8doomNY0nPDAXMos38w
+457,ganchic,,"672 S Santa Fe Ave,Los Angeles, CA 90021",asianfusion,5.0,,17,Ood_AxsQ0haBa6nYctZynQ
+458,la fogata,,"2534 S Central Ave,Los Angeles, CA 90011",mexican,5.0,1.0,17,xPWSrdKqodeT1J8PJ-LE3Q
+459,mokuzai,,"117 Winston St,Los Angeles, CA 90013",japanese,4.5,,17,3BZvYRKoEBT8ouGh7gQWLA
+460,tacos el chivo,,"1238 E Olympic Blvd,Los Angeles, CA 90021",tacos,5.0,,16,VoK141m8ttQASdUk7L1GhA
+461,mano po,,"615 S Central Ave,Los Angeles, CA 90021",filipino,4.5,,16,fNkU4SmWjCNfOPBRrjPgWw
+462,peking tavern arts district,,"905 E 2nd Street Ste 109,Los Angeles, CA 90012",gastropubs,4.5,,16,mfsfsSUDpIf9eVj4sii0Pw
+463,polanco modern mexican steakhouse,,"840 S Spring St,Los Angeles, CA 90014",mexican,3.5,,15,7PBCXVHfIYYGEabTeeCrtw
+464,rosemary grill dtla,,"510 W 7th,Los Angeles, CA 90014",mediterranean,5.0,,14,0-NjlgMEZ8t7kNZDCd2YfA
+465,burritobreak,,"600 St Vincent Ct,Los Angeles, CA 90014",mexican,5.0,,14,lBEPxx5e6xcGBoxHLW6ByA
+466,kodō,,"710 S Santa Fe Ave,Los Angeles, CA 90021",izakaya,4.0,,14,qOsGNcHWor5dn4GCKaFDPg
+467,royces jamaican cuisine,,"672 S Santa Fe Ave,Los Angeles, CA 90021",caribbean,4.5,,11,cVFpPiu-poAOo94wk4lRRw
+468,la petite,,"704 S Spring St,Los Angeles, CA 90014",restaurants,3.5,,11,mdhhRhurhRAkMuyQkbC1GA
+469,jin-ju korean restaurant,,"807 E 12th St,Los Angeles, CA 90021",korean,4.5,,10,HImS_FPN6l22j1Vg7imYLQ
+470,jimmysugi,,"905 E 2nd St,Los Angeles, CA 90012",japanese,5.0,,9,Z2rikExfw3kVIR7rVXJCVw
+471,angelo's pasta & grill,,"404 S Figueroa St,Ste 417,Los Angeles, CA 90071",italian,5.0,2.0,8,RWyy28gLr72ptZiCQM69qw
+472,metro cafe,,"800 N Alameda St,Gateway Plz,Los Angeles, CA 90012",cafes,4.5,1.0,8,-U4fB1WhNwiPGnNe5IgNzw
+473,peñaloza mexican restaurant,,"2000 E Olympic Blvd,Los Angeles, CA 90021",mexican,4.5,,8,yo_xnkVhWi7p7GoQ0aWAIw
+474,a'postrophe,,"411 S Main St,Los Angeles, CA 90013",filipino,4.0,3.0,8,e-Yl2gzPtlLmHlF4AmpEPQ
+475,n soto,,"244 San Pedro St,Los Angeles, CA 90012",japanese,5.0,,7,yJfhJJIzMWHrUxacJst2yw
+476,rita’s cocina,,"550 E Olympic Blvd,Los Angeles, CA 90015",mexican,5.0,,6,ltCRWuG_9t9f7oFNOy03Tg
+477,somemore la,,"2717 W Olympic Blvd,Unit 106,Los Angeles, CA 90006",desserts,5.0,,6,RM7bFAKup8tBn8DMPhmHFg
+478,nakara asian street food,,"363 S Broadway,Los Angeles, CA 90013",cambodian,5.0,,5,JlOmW-RsfxzUGD5RAiGepw
+479,mi patria dtla,,"807 E 12th St,Unit 249,Los Angeles, CA 90021",peruvian,4.5,,5,gwL8qTsxh1TCuEDXH2gMpw
+480,backdoor dumplings,,"Los Angeles, CA 90015",russian,4.5,,5,qTInT2mWP7Em3dvMOtJIzQ
+481,kcon food street,,"700 Chick Hearn Ct,Los Angeles, CA 90015",foodstands,4.0,,5,5llB4Vv3W82PnNIaYb1fXw
+482,international food court,,"935 Santee St,Los Angeles, CA 90015",indpak,4.5,,4,cNK1gSrm7etvLpYep5raCw
+483,heritage kitchen,,"724 S Spring St,Los Angeles, CA 90014",newmexican,4.5,,4,dj0P_k5GSrUQtZBNk0dn1Q
+484,founder's room,,"135 N Grand Ave,Los Angeles, CA 90012",tradamerican,4.5,,3,wB9bJyxmmGRzNC-7LL9GmQ
+485,patina grill,,"Music Ctr,Los Angeles, CA 90012",tradamerican,3.5,,3,BHfx-sSC4ccN2VLht66nBQ
+486,the rising sun,,"1356 Palmetto St,Los Angeles, CA 90013",southern,5.0,,2,9F3kkEjwdKvBy62Vdk9tmA
+487,524 thai eatery,,"524 S Occidental Blvd,Los Angeles, CA 90057",thai,5.0,,2,XwnjkYIr4NvxOS5efqo0jg
+488,gyuichi restaurant,,"111 San Pedro St,Los Angeles, CA 90012",japanese,5.0,,2,Qwsc4FcOFebTv7ShZaefQQ
+489,manila district,,"1801 E 7th St,Los Angeles, CA 90021",food_court,4.5,,2,b7RobPQvkIs4P1chTLVBjw
+490,kaminari gyoza,,"323 1st St,Los Angeles, CA 90012",japanese,5.0,,1,nlXMXx2MEiNKRrQBWWewHQ
+491,wow bao,,"1230 W Olympic Blvd,Los Angeles, CA 90015",fooddeliveryservices,5.0,,1,b251StIfNGXmJ2jrPock7Q
+492,lucky corner,,"629 S Central Ave,Los Angeles, CA 90021",shoppingcenters,5.0,,1,ifkCu4T_tcbOLSmLjfmemw
+493,seafood 33 cajun,,"225 W 7th St,Los Angeles, CA 90014",cajun,5.0,,1,ACQV3uLqOKiNO8Am6XOs8g
+494,la burrito,,"401 S Grand Ave,Los Angeles, CA 90071",mexican,5.0,,1,sal9Bpc38--tL9BBjp93lQ
+495,ice tropical bar,,"1191 W 24th St,Los Angeles, CA 90007",juicebars,5.0,,1,lVY7YIJbzRH9fhQhEYCLAA
+496,phuket noodle,,"1100 N Main St,Los Angeles, CA 90012",thai,5.0,,1,EeNUFM1J6lsgxLarjFozpw
+497,taste of mexico,,"La Plaza De Cultura Y Artes,Los Angeles, CA 90012",mexican,5.0,,1,EuatFAE68mlMZWbuPhoXTQ
+498,slutty potato,,"349 S Los Angeles St,Los Angeles, CA 90013",comfortfood,5.0,,1,LldC3ZGm8C29WyFOw6yqOw
+499,gaslighter social club,,"813 Flower St,Los Angeles, CA 90017",breakfast_brunch,4.0,,1,9RAX9V0NP_K4ldYL5U0BIw
